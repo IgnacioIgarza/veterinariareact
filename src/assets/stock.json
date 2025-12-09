@@ -1,0 +1,34 @@
+[
+  {
+    "nombre": "Aceite ozonificado",
+    "descripcion": "Aerosol antiinflamatorio",
+    "avatar": "https://http2.mlstatic.com/D_NQ_NP_2X_914762-MLA69950979054_062023-F.webp",
+    "precio": "15.000",
+    "masinfo": "Aerosol con acción antiinflamatoria, cicatrizante",
+    "id": "Art.1"
+  },
+  {
+    "nombre": "Pelota juguete",
+    "descripcion": "Juguete de alta resistencia",
+    "avatar": "https://ammascotas.com/wp-content/uploads/2016/10/Pelotahuellasyhuesos.jpg",
+    "precio": "5.000",
+    "masinfo": "Juguete multicolor de alta resistencia",
+    "id": "Art.2"
+  },
+  {
+    "nombre": "Cortauñas",
+    "descripcion": "Corte preciso",
+    "avatar": "https://acdn-us.mitiendanube.com/stores/197/359/products/alicate-cortaunas-para-perros-y-gatos1-e760ebef28a33e221716923625436655-1024-1024.webp",
+    "precio": "12.000",
+    "masinfo": "Herramienta de primera calidad para cortes precisos",
+    "id": "Art.3"
+  },
+  {
+    "nombre": "Peine de goma",
+    "descripcion": "Para acicalarlo y relajarlo",
+    "avatar": "https://petshopmardelplata.com.ar/wp-content/uploads/2024/11/Cepillo-De-Vapor-Macotas-Peine-Gatos-Perros-Masajeador.webp",
+    "precio": "8.000",
+    "masinfo": "Instrumento de alta calidad para acicalarlo y relajarlo",
+    "id": "Art.4"
+  }
+]
