@@ -18,6 +18,7 @@
 ### - src (carpeta con la lógica del programa)
 | Carpeta | Archivo | Tipo | Contenido |
 | :------ | :------ | :--- | :-------- |
+|       | index | html |       |
 |       | main | jsx |       |
 |       | app | jsx |        |
 |       | index | css | Estilo de los componentes |
@@ -48,6 +49,7 @@ npm install
 ```bash
 npm run dev 
 ```
+
 
 
 
