@@ -1,6 +1,6 @@
 # React-eCommerce
 ## Página de e-commerce de una veterinaria ficticia usando React
-![Vista de la app](https://github.com/IgnacioIgarza/veterinariareact/blob/main/VeteLorePagina.bmp)
+![Vista de la app](https://github.com/IgnacioIgarza/veterinariareact/blob/main/appVeteReact.bmp)
 ## Este es una actividad de un curso de React, ofrecido por Talento Tech, Buenos Aires, Argentina. 
 ## Es una aplicación web que interacciona con el usuario en un eCommerce con fines de aprendiaje. Contiene: 
 ### - un carrito de compras con gestión de cantidades,
@@ -48,5 +48,6 @@ npm install
 ```bash
 npm run dev 
 ```
+
 
 
